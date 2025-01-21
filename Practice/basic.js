@@ -10,7 +10,7 @@ console.log(departments[0]);
 console.log(departments[3]);/*undefined*/
 
 /*Using Constructor*/
-let numbers = Array(10, 20, 30);
+let numbers = new Array(10, 20, 30);
 console.log(numbers);
 
 /*Array can contain Mixed Types*/
